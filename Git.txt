@@ -3,4 +3,4 @@ repo git
 -1 commmit en cada branch
 -mezclar todo el master
 
-Ejemplo de commit -Leonardo
+Ejemplo de commit -Leo
